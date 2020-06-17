@@ -1,0 +1,18 @@
+{
+  "keyPhrases": {
+    "used": true,
+    "value": []
+  },
+  "country": {
+    "used": true,
+    "value": ""
+  },
+  "followersCount": {
+    "used": true,
+    "value": ""
+  },
+  "followedBy": {
+    "used": true,
+    "value": []
+  }
+}
