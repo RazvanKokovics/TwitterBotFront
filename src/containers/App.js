@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
 import Switch from '@material-ui/core/Switch';
+import { connect } from 'react-redux';
 
 //import { getConfig, updateConfig } from 'actions';
 import AppComponent from '../components/App';
